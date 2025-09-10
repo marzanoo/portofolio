@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply transition-colors duration-300 bg-gradient-bg;
+}
+
+.dark {
+  @apply bg-bgDark text-textDark;
+}
+
+.light {
+  @apply bg-bgLight text-textLight;
+}
