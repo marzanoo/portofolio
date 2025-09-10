@@ -33,7 +33,7 @@ function Contact() {
     },
     {
       name: "Discord",
-      link: "https://discord.com/users/yourid",
+      link: "https://discord.com/users/327408517910626314",
       icon: <FaDiscord size={24} />,
     },
     {
