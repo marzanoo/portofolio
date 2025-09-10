@@ -1,6 +1,6 @@
 # Marzanoo Portfolio
 
-![Portfolio Preview](https://marzano-portofolio.vercel.app/)
+[Portfolio Preview](https://marzano-portofolio.vercel.app/)
 
 A modern, interactive portfolio showcasing my skills and projects, built with **React**, **Vite**, **Tailwind CSS v3**, and **Framer Motion**. Features a vibrant blue monochrome theme, responsive design, and subtle animations.
 
